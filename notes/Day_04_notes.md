@@ -172,16 +172,6 @@ This understanding will help me:
 
 ---
 
-## Tomorrow: Day 5
-
-I will focus on:
-- Functions
-- Code reusability
-- Clean structure
-- Thinking like a programmer
-
----
-
 ## Hashtags
 
 #Day4 #100DaysOfLearningAI #AI #ML #GenerativeAI #LearningEveryday #Foundations #BeginnerJourney
