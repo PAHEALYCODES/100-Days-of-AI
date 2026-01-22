@@ -60,15 +60,13 @@ Python Basics Learned
 1. Variables
 Variables store data for use in programs:
 
-python
-Copy code
+
 name = "Healy"
 age = 17
 2. Data Types
 int, float, str, bool
 
 3. Printing to Console
-python
 
 print("Hello, world!")
 print(f"My name is {name}, I am {age} years old.")
