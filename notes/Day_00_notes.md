@@ -56,13 +56,14 @@ venv\Scripts\activate
 # Verify Python is using the venv
 which python   # macOS/Linux
 where python   # Windows
-Python Basics Learned
+Python Basics 
+
 1. Variables
 Variables store data for use in programs:
 
-
 name = "Healy"
 age = 17
+
 2. Data Types
 int, float, str, bool
 
@@ -70,17 +71,18 @@ int, float, str, bool
 
 print("Hello, world!")
 print(f"My name is {name}, I am {age} years old.")
+
 4. Comments
-
-
 # Single-line comment
 """
 Multi-line comment
 """
+
 User Input
 input() reads user input from the console
 
 Always returns a string, even if numbers are entered
+
 
 Type Conversion
 Convert strings to integers using int() for arithmetic operations
@@ -100,7 +102,7 @@ Concatenate strings with + or use f-strings for cleaner formatting
 Step-by-Step Debugging / Understanding
 Print variables after each step to see their values:
 
-python
+
 
 print("Name:", name)
 print("Age:", age)
